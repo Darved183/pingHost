@@ -4,14 +4,4 @@
 или
 2. go run main.go -f hosts.txt -monitor
 
-Флаг -ICMP использует протокол ICMP 
-
-hysteria2://K7p%249mX2vN8qR4tL@144.31.227.57:1935?insecure=1&allowInsecure=1#KeptVPN
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206OTFiNmFBcjROc1pEeW1WNkpoc2J0Zz09@144.31.227.57:8443?#KeptVPN
-vless://bdde305a-32e0-438c-b099-774456d268e9@pantheon45.ru:8449?encryption=none&security=none&type=xhttp&path=%2Fvless&mode=stream-up#KeptVPN
-
-vless://2eed9884-23f2-4083-823c-4365fe9f45ec@pantheon45.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.google.com&fp=chrome&pbk=CLSSvnxsHW_Z_01oxPcNFv_oY81mPqiFRxHoohpgEWE&sid=6ba85179e30d4fc2&type=tcp#pantheon45.ru
-
-hysteria2://QlAiD81+JDga8Km3wAR+Cg==@pantheon45.ru:8443/?sni=pantheon45.ru#pantheon45.ru
-
-ss://YWVzLTI1Ni1nY206NHVxdDErYTBXdHlkN0tFVA==@pantheon45.ru:8388#pantheon45.ru
+Флаг -ICMP использует протокол ICMP
